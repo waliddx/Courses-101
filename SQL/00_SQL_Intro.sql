@@ -1,4 +1,4 @@
--- SQL Introduction
+-- SQL Introduction :
 
 -- SQL (Structured Query Language) is a programming language used for managing and manipulating relational databases.
 
