@@ -1,6 +1,6 @@
 # Programming Language Courses
 
-![Programming](./images/languages.png)
+![Programming](./pictures/languages.png)
 
 Welcome to the Programming Language Courses repository! Here you will find a collection of courses covering various programming languages. Whether you are a beginner or an experienced programmer, these courses will help you enhance your skills and expand your knowledge.
 
