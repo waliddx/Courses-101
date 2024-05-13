@@ -17,7 +17,7 @@ In this repository, we aim to provide comprehensive and well-structured programm
 
 ## Courses
 
-1. [Python Programming Course](./python-course.md): This course is designed for beginners who want to learn Python from scratch. It covers the basics of Python programming, including variables, data types, loops, conditionals, functions, and file handling.
+1. [Python Programming Course](./python-course.md): This course is designed for people who want to learn Python from scratch. It covers the basics of Python programming, including variables, data types, loops, conditionals, functions, and file handling.
 
 2. [Java Programming Course](./java-course.md): If you are interested in learning Java, this course is for you. It covers the core concepts of Java programming, such as classes, objects, inheritance, polymorphism, exception handling, and more.
 
