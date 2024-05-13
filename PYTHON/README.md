@@ -1,6 +1,6 @@
 # Python 101
 
-![Python](./trial%20section/py.png)
+![Python](./images/py.png)
 
 Welcome to Python 101! This repository contains resources and materials for learning Python programming from scratch. Whether you're a beginner or have some programming experience, this course will help you build a strong foundation in Python.
 
