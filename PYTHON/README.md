@@ -41,7 +41,7 @@ By the end of this course, you will:
 
 To install Python and any additional libraries or dependencies required for this course, follow these steps:
 
-1. **Windows**: 
+1. **Windows**:
     - Visit the official Python website at [python.org](https://www.python.org/downloads/windows/) and download the latest version of Python for Windows.
     - Run the installer and follow the on-screen instructions to complete the installation.
     - Make sure to check the box that says "Add Python to PATH" during the installation process.
@@ -63,4 +63,4 @@ To install Python and any additional libraries or dependencies required for this
 
     Once the virtual environment is activated, any packages or dependencies you install will be isolated to that environment.
 
-4. You're now ready to start learning Python! You can proceed to the [Usage](#usage) section to learn how to navigate the course materials and resources.
+4. You're now ready to start learning Python!
