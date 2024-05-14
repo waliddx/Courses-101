@@ -17,8 +17,6 @@ Welcome to Python 101! This repository contains resources and materials for lear
 
 Welcome to Python 101! This course is designed to teach you the fundamentals of Python programming from scratch. Whether you're a beginner or have some programming experience, this course will help you build a strong foundation in Python.
 
-By the end of this course, you will:
-
 So, let's get started and embark on this exciting journey of learning Python!
 
 ## Course Curriculum
